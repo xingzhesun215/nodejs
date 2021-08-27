@@ -1,0 +1,15 @@
+安装 全局-g
+npm install xxx -g
+
+卸载
+npm uninstall xxxx
+
+列表
+npm ls
+
+更新模块
+npm update xxx
+
+
+查找模块
+npm search xxx
