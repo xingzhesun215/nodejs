@@ -1,0 +1,11 @@
+mac: 
+brew install node
+
+
+
+
+ubuntu:
+sudo apt-get update
+sudo apt-get install nodejs
+sudo apt install nodejs-legacy
+sudo apt install npm
